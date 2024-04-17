@@ -1,0 +1,25 @@
+/* Custom CSS */
+
+/* Style the container */
+.Container {
+    background-color: whitesmoke; /* Light gray background */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  /* Style the buttons */
+  .Button {
+    font-weight: bold;
+  }
+  
+  /* Style the BudgetCard component */
+  .BudgetCard {
+    background-color: #fff; /* White background */
+    border: 1px solid #ced4da; /* Gray border */
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow */
+  }
+  
+  /* Add more custom styles as needed */
+  
